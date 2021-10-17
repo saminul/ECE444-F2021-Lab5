@@ -33,3 +33,8 @@ This   repo   is   a   clone   of https://github.com/nelaturuk/education_pathway
 
 ![](screenshots/results_table.png)
 
+
+## Activity 6
+
+
+In the new styled UI, the results table has been formatted to be more readable. The table header has been formatted by adding a backgroud color, changing text color and center aligning it making it easier to disginguish. Borders were also added for the table making it easier to read the information.
